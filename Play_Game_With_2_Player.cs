@@ -14,7 +14,7 @@ namespace UC7_Play_Game_With_2_Player
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to the Snake & Ladder Game");
-            Console.WriteLine("Start The Game");
+            Console.WriteLine("******Start The Game**********");
 
             int position1 = 0;
             int position2 = 0;
