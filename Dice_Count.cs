@@ -44,7 +44,7 @@ namespace UC6_Dice_Count
                     {
                         position -= dice;
                     }
-                    Console.WriteLine("Ladder The new status of the player :" + position);
+                    Console.WriteLine($"Snake The new status of the player = ={position});
                 }
                 else
                 {
