@@ -43,7 +43,7 @@ namespace UC5_Exact_Winning
                         {
                             position -= dice;  
                         }
-                        Console.WriteLine("Ladder The new status of the player :" + position);
+                        Console.WriteLine($"Ladder The new status of the player = +{position}");
                     }
                     else
                     {
@@ -52,7 +52,7 @@ namespace UC5_Exact_Winning
                         {
                             position = 0;
                         }
-                        Console.WriteLine($"Snake The new status of the player = - {position}");
+                        Console.WriteLine($"Snake The new status of the player = -{position}");
 
                     }
                     
