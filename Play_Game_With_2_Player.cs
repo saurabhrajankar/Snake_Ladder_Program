@@ -65,7 +65,7 @@ namespace UC7_Play_Game_With_2_Player
 
                 else if (player == 2)
                 {
-                    Console.WriteLine("Player 2");
+                    Console.WriteLine("Player 2 turn");
                     //Taking die variable for dice number by using rando
                     Random opt = new Random();
                     int option = opt.Next(0, 3);
@@ -95,8 +95,8 @@ namespace UC7_Play_Game_With_2_Player
                 }
             }
             { 
-                Console.WriteLine("Player 1 position is " + position1);
-                Console.WriteLine("Player 2 position is " + position2);
+                Console.WriteLine($"Player 1 position is  {position1}");
+                Console.WriteLine($"Player 2 position is  {position2}");
                 // checking for winner
                 if (position1 > position2)
                 {
