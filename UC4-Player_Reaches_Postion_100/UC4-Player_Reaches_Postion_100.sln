@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC4-Player_Reaches_Postion_100", "UC4-Player_Reaches_Postion_100\UC4-Player_Reaches_Postion_100.csproj", "{53E54210-6007-4EF5-9BF4-147A1192AD0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53E54210-6007-4EF5-9BF4-147A1192AD0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E54210-6007-4EF5-9BF4-147A1192AD0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E54210-6007-4EF5-9BF4-147A1192AD0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E54210-6007-4EF5-9BF4-147A1192AD0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39E21D0D-A4B9-4059-80E6-413E3689DA9C}
+	EndGlobalSection
+EndGlobal
