@@ -1,0 +1,8 @@
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Snake and Ladder\UC6-Dice_Count\UC6-Dice_Count\bin\Debug\UC6-Dice_Count.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Snake and Ladder\UC6-Dice_Count\UC6-Dice_Count\bin\Debug\UC6-Dice_Count.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Snake and Ladder\UC6-Dice_Count\UC6-Dice_Count\bin\Debug\UC6-Dice_Count.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Snake and Ladder\UC6-Dice_Count\UC6-Dice_Count\obj\Debug\UC6-Dice_Count.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Snake and Ladder\UC6-Dice_Count\UC6-Dice_Count\obj\Debug\UC6-Dice_Count.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Snake and Ladder\UC6-Dice_Count\UC6-Dice_Count\obj\Debug\UC6-Dice_Count.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Snake and Ladder\UC6-Dice_Count\UC6-Dice_Count\obj\Debug\UC6-Dice_Count.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Snake and Ladder\UC6-Dice_Count\UC6-Dice_Count\obj\Debug\UC6-Dice_Count.pdb
