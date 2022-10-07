@@ -1,0 +1,8 @@
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Snake and Ladder\UC2-Roll_The_Die\UC2-Roll_The_Die\bin\Debug\UC2-Roll_The_Die.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Snake and Ladder\UC2-Roll_The_Die\UC2-Roll_The_Die\bin\Debug\UC2-Roll_The_Die.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Snake and Ladder\UC2-Roll_The_Die\UC2-Roll_The_Die\bin\Debug\UC2-Roll_The_Die.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Snake and Ladder\UC2-Roll_The_Die\UC2-Roll_The_Die\obj\Debug\UC2-Roll_The_Die.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Snake and Ladder\UC2-Roll_The_Die\UC2-Roll_The_Die\obj\Debug\UC2-Roll_The_Die.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Snake and Ladder\UC2-Roll_The_Die\UC2-Roll_The_Die\obj\Debug\UC2-Roll_The_Die.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Snake and Ladder\UC2-Roll_The_Die\UC2-Roll_The_Die\obj\Debug\UC2-Roll_The_Die.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Snake and Ladder\UC2-Roll_The_Die\UC2-Roll_The_Die\obj\Debug\UC2-Roll_The_Die.pdb
